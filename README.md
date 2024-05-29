@@ -8,7 +8,7 @@ The **personal milestones table** outlines key milestones for practical programm
 | Week | Milestone                                   | Link                                                         |
 |------|---------------------------------------------|--------------------------------------------------------------|
 | 1    | Github Account Created                      | https://github.com/davidmingsegura| 
-| 1    | Github Profile Page                         | https://github.com/Davidmingsegura/Davidmingsegura/commit/2a49c7450b01a7b5c2237ed61cf52cba0cdd8638|
+| 1    | Github Profile Page                         | https://github.com/Davidmingsegura/Davidmingsegura/edit/main/README.md|
 | 1    | Commit and Push Change from Command Line    | https://github.com/Davidmingsegura/ppchem/commit/7743efefd8867b4555cf2cbf24324931c2b7c31d|
 | 1    | Create a New Branch                         | https://github.com/Davidmingsegura/ppchem/tree/new-branch-name|
 | 1    | Create a conda environment                  | https://github.com/Davidmingsegura/ppchem/blob/main/env.yml|
